@@ -1,7 +1,14 @@
 # Submitting your labs
 
-## 💪 Do your work
-For your 301 lab assignments, we will be using the git flow outlined in the [GIT_FLOW](GIT_FLOW.md) file.
+```js
+/*
+    In summary, your lab work flow simulates how you are likely to work out in the wild:
+    do your work in a fork, on a branch, and make a PR to the original work when you're done. 
+*/
+```
+
+## 💪 Get going with Git
+For your Bootcamp: Part Two lab assignments, we will be using the git flow outlined in the [GIT_FLOW](GIT_FLOW.md) document.
 
 
 ## 👌 Ensure your submission is ready
@@ -19,11 +26,8 @@ If your submission does not meet these requirements, you will be asked to fix th
 ## 🙌 Submit your lab
 To submit your work you will:
 1. **In GitHub**
-    - Make a pull request (PR) to the class lab's repo. Name it with your and your pair's name, e.g. `sj-haley`.
-    - In the PR's description, include a filled in [PR_TEMPLATE](PR_TEMPLATE.md).
-1. **In Canvas** 
+    - Follow the directions in the [GIT_FLOW](GIT_FLOW.md#Submit) document.
+    - Note that you only need one PR per pair.
+1. **In Canvas**
     - Submit the link to your PR.
-    - Answer a few questions about your time spent working on the lab.
-        - How long did you spend working on the lab?
-        - What was the hardest or easiest part of the lab?
-        - What was something from the lab that sparked your interest or curiosity?
+    - Include how long you spent working on the lab.
