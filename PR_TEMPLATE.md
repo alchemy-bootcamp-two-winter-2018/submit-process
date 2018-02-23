@@ -9,5 +9,5 @@
 ### Checklist *(before submitting, fill in each set of square brackets with an 'x')*
 - [] Our JavaScript passes our eslint.
 - [] There is no extraneous, unrelated code included in this PR.
-- [] We have titled the Pull Request with our names (ex: 'brian-rick'). 
+- [] We have titled the Pull Request with our names (ex: 'brianna-rick'). 
 - [] This PR includes commits from both myself and my partner; e.g. We followed good pair programming practices by switching driver/navigator roles.
