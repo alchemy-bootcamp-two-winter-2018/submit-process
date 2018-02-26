@@ -31,3 +31,7 @@ To submit your work you will:
 1. **In Canvas**
     - Submit the link to your PR.
     - Include how long you spent working on the lab.
+
+
+
+    NEW PRACTICE STUFF 
