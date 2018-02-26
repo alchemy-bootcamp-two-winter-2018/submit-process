@@ -1,5 +1,5 @@
 ### Single-line Summary
-- Implement HandlebarsJS for templating blog articles. *(Briefly summarize what accepting this PR would change in or add to the project.)*
+- Implement HandlebarsJS for templating blog articles. *(Briefly summarize what accepting this PR would change in or add to the project.)* changed
 
 ### Additional Info
 - FYI: I changed all the random `monkey` variables to be about `coconuts` bc why not?
